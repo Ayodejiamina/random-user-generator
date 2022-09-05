@@ -1,0 +1,22 @@
+
+.sect{
+   border: 2px solid black;
+   height: 150px;
+   width: 150px;
+   border-radius: 50%;
+}
+.user-info{
+   padding-top: 20px;
+   border: 2px solid coral;
+   border-radius: 5px;
+}
+img{
+   border:1px solid white ;
+   height:200px;
+   width:200px;
+   border-radius: 50%;
+}
+h2{
+   padding-bottom: 20px;
+   color: orangered;
+}
